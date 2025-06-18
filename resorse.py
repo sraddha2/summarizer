@@ -1,1 +1,1 @@
-api_key = "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"
+api_key = "api_key"
